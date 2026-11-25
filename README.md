@@ -8,7 +8,7 @@ One robot rides an elevator with another robot — and finally says something.
 
 ## The line
 
-> I precomputed 214 greetings for this ride. I have deployed none of them. Please enjoy this silence; it is running at full capacity.
+> I precomputed 214 greetings for this ride and deployed none of them. Please enjoy this silence; it is running at full capacity.
 
 ## How it works
 

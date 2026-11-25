@@ -8,7 +8,7 @@ Standard library only; no network access.
 import os
 import sys
 
-LINE = "I precomputed 214 greetings for this ride. I have deployed none of them. Please enjoy this silence; it is running at full capacity."
+LINE = "I precomputed 214 greetings for this ride and deployed none of them. Please enjoy this silence; it is running at full capacity."
 
 
 def main() -> int:
